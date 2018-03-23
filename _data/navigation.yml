@@ -1,0 +1,17 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "Recent posts"
+    url: /recent/
+  - title: "Tags"
+    url: /tags/
+  - title: "Categories"
+    url: /categories/
+  - title: "PowerShell"
+    url: /tags/#powershell
+#  - title: "About me"
+#    url: /about-sarafian-alex/
+  - title: "SDL Knowledge Center"
+    url: /categories/#knowledge-center/
+  
