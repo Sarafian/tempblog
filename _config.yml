@@ -11,9 +11,9 @@ theme: minimal-mistakes-jekyll
 
 # Site Settings
 locale                   : "en"
-title                    : "Alex Sarafian2"
+title                    : "Alex Sarafian-Theme"
 title_separator          : "|"
-name                     : "Alex Sarafian3"
+name                     : "Alex Sarafian"
 description              : "Space focused on .NET, Powershell and the Windows ecosystem"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -71,9 +71,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alex Sarafian4"
+  name             : "Alex Sarafian"
   avatar           : "/assets/images/sarafian-alex.jpg"
-  bio              : "Software engineer5"
+  bio              : "Software engineer"
   location         : "Belgium"
   email            :
   uri              : "https://sarafian.github.io/"
