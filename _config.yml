@@ -6,12 +6,12 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes"
 
 # Site Settings
 locale                   : "en"
-title                    : "Alex Sarafian"
+title                    : "Alex Sarafian1"
 title_separator          : "|"
 name                     : "Alex Sarafian"
 description              : "Space focused on .NET, Powershell and the Windows ecosystem"
