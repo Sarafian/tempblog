@@ -11,13 +11,13 @@ remote_theme: "mmistakes/minimal-mistakes"
 
 # Site Settings
 locale                   : "en"
-title                    : "Alex Sarafian1"
+title                    : "Alex Sarafian"
 title_separator          : "|"
-name                     : "Alex Sarafian"
+name                     : "Alex Sarafian2"
 description              : "Space focused on .NET, Powershell and the Windows ecosystem"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "sarafian/minimal-mistakes-site"
+# repository               : "sarafian/minimal-mistakes-site"
 teaser                   : #"/assets/images/500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
