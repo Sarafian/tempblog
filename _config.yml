@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-# theme: minimal-mistakes-jekyll
-remote_theme: "mmistakes/minimal-mistakes"
+theme: minimal-mistakes-jekyll
+# remote_theme: "mmistakes/minimal-mistakes"
 
 # Site Settings
 locale                   : "en"
-title                    : "Alex Sarafian"
+title                    : "Alex Sarafian2"
 title_separator          : "|"
-name                     : "Alex Sarafian2"
+name                     : "Alex Sarafian3"
 description              : "Space focused on .NET, Powershell and the Windows ecosystem"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -71,9 +71,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alex Sarafian"
+  name             : "Alex Sarafian4"
   avatar           : "/assets/images/sarafian-alex.jpg"
-  bio              : "Software engineer"
+  bio              : "Software engineer5"
   location         : "Belgium"
   email            :
   uri              : "https://sarafian.github.io/"
